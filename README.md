@@ -1,6 +1,6 @@
 ## Theme & Config Files for my Darktable Setup
 
-* CSS File
+* Theme CSS Files
 * In-software CSS Tweaks
 * Module Layout
 * Modules Presets
