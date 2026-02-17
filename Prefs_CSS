@@ -1,0 +1,36 @@
+/* @define-color highlight_color		#b4b4b4; */ /* Grey */
+/* @define-color highlight_color		#E66363; */ /* Peach */
+/* @define-color highlight_color		#E6A563; */ /* Tangerine */
+/* @define-color highlight_color		#E6E663; */ /* Lemon */
+/* @define-color highlight_color		#A5E663; */ /* Lime */
+/* @define-color highlight_color		#63E663; */ /* Apple */
+/* @define-color highlight_color		#63E6A5; */ /* Mint */
+/* @define-color highlight_color		#63E6E6; */ /* Toothpaste Bright */
+   @define-color highlight_color		#2094BA;    /* Cyan */
+/* @define-color highlight_color		#63A5E6; */ /* Baby Blue */
+/* @define-color highlight_color		#6363E6; */ /* Purple */
+/* @define-color highlight_color		#A563E6; */ /* Plum */
+/* @define-color highlight_color		#E663E6; */ /* Bubblegum */
+/* @define-color highlight_color		#E663A5; */ /* Barbie */
+
+@define-color scroll_bar_active			@highlight_color;
+@define-color bauhaus_fill			@highlight_color;
+@define-color bauhaus_fg_selected		@highlight_color;
+@define-color button_checked_fg			@highlight_color;
+@define-color button_hover_bg			@highlight_color;
+@define-color field_selected_fg			@highlight_color;
+@define-color field_active_fg			@highlight_color;
+@define-color thumbnail_star_bg_color		@highlight_color;
+@define-color thumbnail_star_hover_color	@highlight_color;
+@define-color thumbnail_fg_color		@highlight_color;
+@define-color thumbnail_localcopy_color		@highlight_color;
+
+@define-color graph_red				rgba(255, 0, 0, 1);
+@define-color graph_green			rgba(0, 255, 0, 1);
+@define-color graph_blue			rgba(0, 0, 255, 1);
+
+@define-color colorlabel_red			rgba(205, 0, 0, 0.9);
+@define-color colorlabel_green			rgba(0, 215, 0, 0.9);
+@define-color colorlabel_blue			rgba(0, 145, 235, 0.9);
+@define-color colorlabel_yellow			rgba(235, 225, 0, 0.9);
+@define-color colorlabel_purple			rgba(215, 0, 215, 0.9);
